@@ -1,0 +1,501 @@
+respondent_id,age,gender,nationality,employment_status,monthly_income_aed,financial_literacy_score,current_savings_level,has_existing_investments,sharia_compliant_preference,uses_spending_tracker,uses_savings_goals,uses_auto_invest,uses_portfolio_view,uses_sharia_filter,uses_financial_insights,app_sessions_per_week,satisfaction_score,monthly_investment_aed,will_adopt_microinvestment
+1,27,Female,Expat-Arab,Mid-Career,17196,4,5k-20k AED,0,0,0,1,1,1,0,1,9,3.4,1855,1
+2,40,Male,Emirati,Freelancer,16660,1,>20k AED,1,0,1,0,1,1,0,1,6,3.8,2000,0
+3,35,Female,Expat-South-Asian,Early-Career,13165,2,5k-20k AED,0,1,1,1,0,0,1,0,4,2.4,1127,0
+4,31,Female,Expat-South-Asian,Early-Career,6301,4,<5k AED,0,0,1,1,0,0,0,1,4,3.8,1025,0
+5,28,Female,Emirati,Early-Career,13527,4,None,0,0,1,1,1,0,0,0,11,3.0,1627,0
+6,41,Male,Expat-Western,Freelancer,11381,1,5k-20k AED,0,0,1,1,0,0,0,1,8,4.4,741,0
+7,27,Female,Expat-South-Asian,Student,2646,5,5k-20k AED,0,1,1,1,0,0,1,0,11,2.8,1182,0
+8,39,Male,Expat-South-Asian,Mid-Career,29571,5,>20k AED,0,0,1,0,1,0,0,1,9,4.2,2687,0
+9,43,Male,Expat-South-Asian,Mid-Career,24951,3,<5k AED,0,0,1,1,0,0,0,1,9,3.7,1797,0
+10,31,Female,Expat-South-Asian,Mid-Career,25773,3,5k-20k AED,0,0,1,1,1,0,0,0,5,2.5,1925,1
+11,31,Male,Expat-South-Asian,Student,4907,5,5k-20k AED,1,1,1,0,0,0,1,1,10,2.9,1500,1
+12,44,Female,Expat-Arab,Mid-Career,31140,4,5k-20k AED,0,1,1,0,1,0,1,0,8,3.8,2507,1
+13,41,Female,Expat-Arab,Freelancer,8537,3,5k-20k AED,1,0,1,1,1,0,0,1,7,4.4,1610,0
+14,24,Male,Expat-Western,Student,2769,5,5k-20k AED,0,0,1,1,1,0,0,1,10,3.1,1433,1
+15,28,Male,Other,Student,4588,3,None,1,0,1,0,0,1,0,1,3,4.3,1539,0
+16,44,Male,Expat-South-Asian,Freelancer,17500,3,5k-20k AED,1,0,1,1,1,0,0,0,8,3.6,2195,1
+17,23,Male,Expat-Arab,Student,2462,3,5k-20k AED,1,1,1,1,1,0,1,1,7,4.4,1450,1
+18,42,Male,Expat-South-Asian,Mid-Career,30921,4,>20k AED,0,1,1,0,1,0,1,1,8,2.9,2219,1
+19,41,Female,Expat-South-Asian,Early-Career,10082,4,>20k AED,1,0,1,0,0,0,0,1,8,3.1,1962,1
+20,22,Male,Emirati,Student,3430,4,<5k AED,0,1,1,1,1,0,0,0,7,3.8,1543,0
+21,44,Male,Expat-Arab,Mid-Career,25517,3,<5k AED,0,0,1,0,1,0,0,1,8,3.4,1717,1
+22,32,Female,Expat-Western,Early-Career,9754,2,>20k AED,0,1,1,1,0,1,0,1,5,1.9,857,0
+23,26,Male,Expat-South-Asian,Early-Career,7724,3,5k-20k AED,0,1,1,0,1,0,0,0,10,3.2,1051,0
+24,22,Female,Emirati,Early-Career,7376,4,>20k AED,0,0,1,1,0,0,0,0,8,2.2,1264,0
+25,41,Male,Expat-Arab,Early-Career,14706,3,None,1,1,1,1,1,1,1,1,6,3.3,2505,1
+26,21,Male,Expat-Arab,Student,2702,1,5k-20k AED,1,0,1,1,1,0,0,1,2,3.1,906,1
+27,32,Female,Expat-South-Asian,Early-Career,7653,5,>20k AED,0,0,0,1,1,0,0,1,13,4.3,1639,1
+28,42,Female,Emirati,Freelancer,7066,1,>20k AED,1,0,0,1,1,1,0,1,2,4.5,1282,0
+29,32,Female,Emirati,Early-Career,6022,5,<5k AED,0,0,0,1,1,1,1,1,7,3.8,2130,1
+30,37,Female,Expat-Western,Mid-Career,33844,1,5k-20k AED,1,1,1,1,0,0,0,0,3,3.3,2118,0
+31,30,Female,Expat-Arab,Early-Career,11926,4,5k-20k AED,0,1,0,0,0,0,1,1,7,3.1,1112,1
+32,36,Male,Expat-South-Asian,Mid-Career,21251,2,None,0,1,0,1,0,0,1,1,8,4.1,829,0
+33,35,Male,Expat-Arab,Student,5438,5,5k-20k AED,1,1,1,0,1,0,1,1,5,2.4,2125,1
+34,35,Female,Emirati,Freelancer,14496,3,5k-20k AED,1,1,1,1,1,1,1,1,13,3.3,2015,1
+35,39,Female,Expat-Arab,Early-Career,13295,2,>20k AED,1,0,1,1,0,0,0,0,4,4.0,1500,1
+36,32,Female,Expat-Western,Student,5300,3,<5k AED,1,0,1,1,0,0,0,1,3,4.4,1270,0
+37,43,Male,Expat-Western,Student,3134,2,<5k AED,1,0,0,0,0,1,0,1,3,3.5,808,1
+38,40,Male,Expat-Western,Student,4183,2,None,1,1,1,1,1,1,1,0,1,3.0,1355,0
+39,23,Female,Expat-South-Asian,Early-Career,14553,5,<5k AED,1,1,1,1,0,0,1,1,11,4.3,1911,1
+40,25,Male,Expat-South-Asian,Early-Career,13353,3,<5k AED,1,0,1,1,0,1,0,0,9,4.2,1648,0
+41,39,Female,Expat-Arab,Mid-Career,18727,4,5k-20k AED,0,1,1,1,1,0,1,0,8,4.0,1872,1
+42,27,Female,Expat-Arab,Early-Career,12272,4,<5k AED,1,1,1,0,1,1,1,1,5,2.1,2321,1
+43,41,Male,Expat-Western,Student,3899,4,>20k AED,0,1,1,1,1,0,1,1,7,4.0,1613,1
+44,29,Female,Emirati,Mid-Career,31898,2,>20k AED,1,0,1,1,1,0,0,1,5,4.3,2470,1
+45,27,Female,Emirati,Mid-Career,31832,2,5k-20k AED,1,0,0,1,0,0,0,0,5,2.8,2371,0
+46,38,Male,Expat-Arab,Student,3923,4,>20k AED,1,0,0,1,1,0,0,0,5,3.4,1561,0
+47,24,Female,Emirati,Student,5175,5,5k-20k AED,1,0,0,0,1,0,0,0,12,2.7,2140,0
+48,34,Male,Expat-Arab,Student,3506,3,5k-20k AED,1,0,1,0,1,1,0,0,7,2.8,1614,0
+49,38,Female,Expat-South-Asian,Mid-Career,25047,3,None,0,1,1,1,0,1,1,0,8,4.3,1668,1
+50,29,Male,Expat-South-Asian,Mid-Career,26754,3,<5k AED,1,0,0,0,0,0,0,1,6,3.2,1878,0
+51,41,Female,Expat-Western,Early-Career,8520,5,5k-20k AED,0,1,1,1,0,0,1,1,7,3.0,812,1
+52,22,Male,Expat-Western,Mid-Career,18081,3,>20k AED,0,0,1,1,0,0,0,1,5,2.9,1494,0
+53,40,Male,Expat-Arab,Mid-Career,16428,3,<5k AED,0,1,0,0,1,1,1,1,4,2.8,1549,0
+54,35,Female,Expat-Arab,Early-Career,9967,5,>20k AED,0,0,1,1,0,1,0,1,14,3.2,1930,0
+55,27,Male,Expat-South-Asian,Mid-Career,21445,1,5k-20k AED,0,1,0,0,1,1,1,0,3,3.1,1572,1
+56,32,Male,Expat-South-Asian,Student,4278,1,None,1,1,1,1,0,1,1,0,5,3.7,710,0
+57,28,Female,Expat-Arab,Student,3754,4,>20k AED,0,0,1,0,0,0,0,1,10,3.7,726,1
+58,35,Female,Expat-South-Asian,Early-Career,8159,5,5k-20k AED,0,0,0,0,1,0,0,1,7,2.8,1664,1
+59,23,Female,Expat-South-Asian,Student,3036,2,<5k AED,0,1,0,1,0,1,1,1,10,4.0,395,1
+60,34,Female,Expat-South-Asian,Early-Career,8547,3,5k-20k AED,0,0,1,1,0,1,0,1,5,4.4,1309,0
+61,37,Male,Expat-South-Asian,Freelancer,7979,3,None,1,0,0,1,1,0,1,1,7,3.4,1315,1
+62,24,Male,Expat-Arab,Student,4645,3,5k-20k AED,0,0,0,1,1,0,0,1,7,3.0,938,1
+63,38,Male,Other,Student,4281,4,<5k AED,0,0,1,1,0,1,0,1,7,3.8,1260,1
+64,28,Female,Expat-Western,Early-Career,8649,3,<5k AED,0,1,1,1,1,0,1,0,5,4.9,1339,0
+65,24,Female,Emirati,Freelancer,13505,3,>20k AED,0,0,1,1,1,0,0,1,8,3.3,1599,0
+66,22,Female,Expat-Western,Early-Career,9083,3,5k-20k AED,0,1,1,1,1,1,1,1,4,3.6,1252,0
+67,26,Female,Expat-South-Asian,Early-Career,7037,4,None,0,1,1,1,0,0,1,0,8,3.4,1019,1
+68,42,Male,Expat-Western,Student,3656,3,<5k AED,1,1,0,1,0,0,1,1,6,3.7,1364,0
+69,30,Male,Expat-Western,Student,5489,5,>20k AED,1,1,0,1,0,1,1,1,5,2.2,1807,0
+70,24,Male,Expat-South-Asian,Freelancer,12604,1,None,0,1,1,1,0,1,1,1,4,4.5,1013,0
+71,42,Male,Emirati,Freelancer,12544,5,None,1,0,1,1,0,1,1,1,4,4.5,2184,1
+72,38,Male,Expat-Arab,Student,5091,5,None,0,1,1,1,1,0,1,0,6,3.3,1763,1
+73,32,Female,Expat-South-Asian,Freelancer,7634,3,None,0,1,1,1,1,0,1,1,7,5.0,1112,0
+74,22,Male,Expat-South-Asian,Mid-Career,18983,3,>20k AED,1,1,1,0,0,1,0,1,7,4.1,1731,1
+75,30,Male,Expat-Arab,Mid-Career,16778,3,5k-20k AED,0,1,1,1,1,1,1,1,13,4.6,1627,1
+76,24,Male,Emirati,Early-Career,13902,2,<5k AED,1,0,1,0,0,0,0,0,3,3.8,1393,0
+77,34,Female,Expat-Western,Early-Career,11110,3,5k-20k AED,0,0,1,1,1,1,0,1,5,4.6,1280,1
+78,36,Female,Other,Early-Career,11189,1,<5k AED,0,1,1,0,1,0,0,1,2,3.6,838,1
+79,35,Male,Expat-South-Asian,Mid-Career,27087,3,>20k AED,0,0,0,1,1,0,0,0,5,3.2,1998,0
+80,28,Male,Expat-Arab,Student,5282,4,>20k AED,1,1,1,0,1,0,1,0,2,2.7,1557,0
+81,34,Female,Expat-Arab,Student,3124,3,<5k AED,1,0,1,0,0,0,1,1,8,3.1,1190,0
+82,43,Male,Emirati,Early-Career,6697,4,>20k AED,1,0,1,1,1,0,0,1,9,3.7,1912,1
+83,28,Female,Other,Mid-Career,17179,3,5k-20k AED,0,0,1,1,1,1,0,1,4,3.9,1928,0
+84,41,Female,Emirati,Student,5694,5,<5k AED,0,0,1,0,1,1,0,0,7,4.3,1468,0
+85,36,Male,Expat-South-Asian,Mid-Career,24596,4,<5k AED,0,0,0,1,1,1,0,1,8,2.3,2349,1
+86,33,Male,Expat-Arab,Freelancer,10251,1,<5k AED,0,0,1,1,1,0,0,1,3,4.7,941,1
+87,38,Female,Expat-South-Asian,Student,3043,4,5k-20k AED,1,1,1,0,0,0,1,0,5,2.5,1245,1
+88,35,Male,Expat-South-Asian,Mid-Career,33313,1,>20k AED,0,1,1,0,1,0,1,0,3,3.2,1895,0
+89,41,Male,Expat-Western,Early-Career,7013,3,5k-20k AED,1,0,1,1,0,0,0,1,8,3.3,1336,0
+90,44,Female,Expat-Arab,Mid-Career,31610,5,>20k AED,1,1,1,1,1,1,0,1,8,5.0,3196,0
+91,33,Female,Emirati,Student,5225,2,5k-20k AED,0,1,1,0,1,1,1,1,4,3.3,958,0
+92,29,Female,Emirati,Mid-Career,16828,3,>20k AED,1,1,1,1,0,1,1,0,12,3.7,1917,1
+93,35,Female,Other,Mid-Career,22909,4,5k-20k AED,0,0,1,1,1,0,0,0,4,3.9,2389,1
+94,33,Male,Expat-Western,Freelancer,10588,5,<5k AED,0,1,1,1,0,0,1,1,7,3.0,1345,1
+95,21,Male,Expat-South-Asian,Mid-Career,28109,4,5k-20k AED,0,1,1,1,1,0,1,0,7,3.5,2433,0
+96,27,Female,Expat-South-Asian,Early-Career,8023,3,>20k AED,0,0,0,1,1,0,1,1,5,4.3,1228,0
+97,29,Female,Expat-South-Asian,Mid-Career,29537,4,None,0,0,1,1,1,1,0,1,6,3.4,2371,0
+98,44,Male,Expat-Arab,Mid-Career,20891,3,>20k AED,0,1,0,1,1,1,1,0,2,3.8,1926,0
+99,21,Female,Other,Early-Career,7080,4,None,0,0,1,1,1,0,0,1,4,3.7,1379,0
+100,32,Male,Expat-South-Asian,Student,2940,5,<5k AED,0,1,1,1,0,1,1,1,12,4.4,1498,0
+101,28,Male,Expat-South-Asian,Freelancer,15512,4,>20k AED,1,0,1,1,0,1,0,1,8,4.7,2546,0
+102,44,Male,Expat-South-Asian,Mid-Career,25822,5,<5k AED,1,1,1,0,1,0,1,0,10,2.1,2743,1
+103,31,Male,Emirati,Mid-Career,17563,1,<5k AED,0,1,0,1,0,1,1,0,5,2.3,906,0
+104,39,Male,Expat-Arab,Student,5292,4,<5k AED,0,0,0,1,0,0,0,1,6,3.1,680,0
+105,37,Male,Expat-Western,Mid-Career,18586,4,>20k AED,1,0,1,1,0,0,0,1,12,4.6,1859,0
+106,28,Male,Emirati,Early-Career,10431,1,None,0,1,1,1,0,1,1,0,2,3.7,641,0
+107,23,Female,Expat-South-Asian,Mid-Career,21643,5,>20k AED,1,1,1,1,1,1,1,0,12,2.9,2927,1
+108,23,Female,Expat-Arab,Student,4947,3,None,0,1,0,0,1,0,1,0,1,3.4,1210,1
+109,21,Female,Expat-South-Asian,Mid-Career,18959,4,>20k AED,0,0,0,1,1,0,0,1,10,3.1,1829,1
+110,25,Female,Expat-Arab,Freelancer,16005,4,>20k AED,0,0,0,1,0,1,0,1,9,3.9,1821,0
+111,30,Male,Expat-South-Asian,Student,4583,4,<5k AED,0,0,0,0,0,1,0,1,3,3.4,1246,1
+112,27,Male,Expat-Western,Freelancer,5161,2,<5k AED,1,1,1,0,0,1,1,0,3,2.5,1629,1
+113,29,Female,Expat-Arab,Early-Career,6593,4,<5k AED,0,0,1,1,1,0,0,1,6,3.9,1488,1
+114,27,Male,Expat-South-Asian,Mid-Career,29226,3,5k-20k AED,1,0,1,0,1,1,0,0,5,4.0,2898,1
+115,29,Female,Expat-South-Asian,Mid-Career,26154,5,None,1,1,1,0,1,0,0,1,8,2.5,2456,1
+116,28,Male,Expat-South-Asian,Early-Career,9390,3,None,0,1,0,1,1,1,1,1,9,3.8,1291,1
+117,32,Female,Other,Mid-Career,20997,3,None,1,0,1,1,1,0,0,0,9,2.9,2235,1
+118,22,Male,Expat-Western,Mid-Career,27693,4,<5k AED,0,0,0,1,1,1,0,1,6,3.6,2147,1
+119,21,Female,Expat-Arab,Early-Career,6663,3,<5k AED,0,1,1,1,1,0,1,0,2,3.9,1041,0
+120,36,Male,Emirati,Early-Career,6541,4,5k-20k AED,1,1,1,0,1,0,1,0,9,4.5,1997,1
+121,43,Female,Expat-Arab,Mid-Career,20093,4,>20k AED,0,0,0,1,0,0,0,1,5,3.4,1474,0
+122,43,Male,Expat-South-Asian,Mid-Career,28428,5,<5k AED,0,1,0,1,1,0,1,1,5,4.5,2195,0
+123,44,Female,Emirati,Mid-Career,26166,4,5k-20k AED,0,1,1,1,1,1,1,1,9,3.4,2530,0
+124,25,Female,Expat-South-Asian,Mid-Career,32251,3,<5k AED,0,0,1,1,1,1,0,1,3,3.6,2854,1
+125,23,Male,Expat-South-Asian,Early-Career,14623,2,>20k AED,1,0,1,1,0,1,0,1,8,4.1,1473,1
+126,32,Female,Expat-Arab,Mid-Career,31044,2,>20k AED,1,0,0,1,1,0,0,0,6,3.4,2586,1
+127,28,Female,Expat-Western,Student,2739,2,>20k AED,1,1,0,1,1,1,0,0,4,3.1,1272,1
+128,42,Male,Emirati,Early-Career,11469,2,>20k AED,1,0,1,1,0,1,0,1,6,3.5,1486,0
+129,23,Female,Emirati,Student,2182,4,None,0,1,0,1,1,0,1,0,7,4.1,1173,1
+130,21,Female,Expat-Western,Early-Career,12256,4,>20k AED,0,1,1,1,0,0,1,1,5,3.5,1133,1
+131,23,Female,Expat-South-Asian,Early-Career,7169,3,5k-20k AED,0,0,0,1,0,1,0,0,10,2.5,1311,0
+132,25,Male,Expat-South-Asian,Early-Career,6830,4,<5k AED,0,1,1,1,0,1,1,1,7,3.2,1015,0
+133,35,Male,Expat-South-Asian,Mid-Career,16651,5,>20k AED,0,1,0,1,0,1,1,1,8,3.8,1955,1
+134,34,Female,Expat-Arab,Early-Career,7136,4,None,1,0,1,1,1,0,0,0,8,5.0,2000,1
+135,23,Female,Expat-Western,Early-Career,8810,4,5k-20k AED,0,0,1,1,0,1,0,0,7,3.1,1560,1
+136,21,Male,Expat-Western,Student,2475,3,<5k AED,0,0,1,1,0,0,0,1,5,5.0,797,0
+137,25,Female,Expat-South-Asian,Early-Career,7019,3,<5k AED,0,1,1,1,0,1,1,1,4,3.7,1447,0
+138,43,Male,Expat-Arab,Student,3141,2,5k-20k AED,1,1,1,1,0,1,1,0,2,3.2,1131,0
+139,34,Male,Expat-South-Asian,Student,3836,3,5k-20k AED,1,0,1,1,0,0,0,1,7,3.2,848,0
+140,27,Male,Expat-South-Asian,Mid-Career,27448,5,<5k AED,0,1,1,1,1,1,1,0,6,3.5,2674,1
+141,29,Male,Emirati,Mid-Career,27485,4,<5k AED,0,0,1,1,0,0,0,1,6,3.2,1874,1
+142,35,Female,Other,Mid-Career,16283,2,>20k AED,1,0,0,1,1,1,0,1,6,3.1,1578,1
+143,35,Male,Emirati,Early-Career,6659,3,None,0,0,0,1,1,0,0,0,5,2.3,941,0
+144,30,Female,Other,Early-Career,8010,4,<5k AED,0,0,1,1,0,0,0,1,9,4.8,869,0
+145,33,Female,Expat-South-Asian,Mid-Career,16733,1,>20k AED,1,0,0,0,1,0,0,1,8,3.9,1406,1
+146,39,Female,Expat-Arab,Early-Career,8125,3,>20k AED,1,1,1,1,0,0,0,0,11,3.6,1254,0
+147,27,Male,Expat-South-Asian,Early-Career,8171,5,<5k AED,0,0,1,1,0,0,0,1,10,3.6,1264,0
+148,37,Male,Expat-Western,Student,2074,3,5k-20k AED,1,1,1,1,0,1,1,0,7,3.4,1177,1
+149,40,Female,Expat-Western,Early-Career,9471,1,>20k AED,1,0,1,1,0,1,0,0,4,2.9,978,0
+150,24,Female,Expat-Western,Early-Career,11624,3,>20k AED,0,0,1,1,1,1,0,0,5,2.9,1690,1
+151,25,Male,Expat-South-Asian,Early-Career,14691,5,5k-20k AED,1,0,1,1,1,0,0,1,5,4.3,2310,1
+152,43,Female,Expat-South-Asian,Early-Career,14329,4,None,1,1,0,1,0,1,1,0,5,2.9,2052,1
+153,27,Female,Expat-Western,Early-Career,8097,2,<5k AED,1,0,1,1,1,0,0,1,4,4.1,1779,0
+154,33,Female,Expat-Arab,Mid-Career,29082,3,<5k AED,1,0,0,1,0,1,0,1,11,2.4,2445,0
+155,35,Female,Expat-South-Asian,Mid-Career,28930,3,5k-20k AED,0,1,0,0,1,0,0,1,3,3.1,1983,1
+156,31,Female,Expat-Arab,Mid-Career,25077,4,None,0,0,1,1,0,1,0,1,3,3.0,2031,0
+157,24,Male,Other,Mid-Career,21397,4,5k-20k AED,0,0,1,1,0,1,0,1,6,4.0,1925,0
+158,33,Female,Other,Freelancer,19316,2,<5k AED,0,1,1,1,0,1,1,1,9,4.3,1545,0
+159,27,Female,Emirati,Student,4757,5,<5k AED,0,0,0,1,0,0,0,1,9,4.3,1181,1
+160,39,Male,Expat-Western,Student,5920,1,>20k AED,1,0,1,1,1,0,1,0,9,3.2,748,0
+161,42,Male,Other,Student,3900,3,<5k AED,1,0,0,0,1,0,0,1,7,2.6,1368,1
+162,22,Male,Expat-Arab,Mid-Career,33994,1,None,1,0,1,1,0,1,0,0,3,3.1,2210,1
+163,30,Female,Expat-South-Asian,Freelancer,11900,3,>20k AED,1,0,1,0,1,1,0,0,5,2.9,2286,1
+164,33,Female,Other,Student,5986,3,None,1,0,1,1,1,0,0,1,10,4.2,1382,1
+165,41,Male,Emirati,Freelancer,6449,3,5k-20k AED,0,0,1,1,1,1,0,0,6,2.8,1080,0
+166,26,Female,Expat-South-Asian,Student,2546,2,5k-20k AED,0,0,1,1,0,1,0,0,4,2.3,764,1
+167,32,Male,Expat-Arab,Freelancer,10017,4,<5k AED,0,1,1,1,1,1,1,1,4,3.7,1923,1
+168,32,Female,Other,Early-Career,13999,1,>20k AED,1,0,1,0,1,0,0,1,4,4.0,1381,0
+169,40,Female,Other,Student,3956,4,<5k AED,0,0,1,0,1,0,0,1,6,3.0,1734,0
+170,31,Female,Other,Early-Career,8096,5,<5k AED,1,1,1,1,0,0,1,1,8,4.2,2153,0
+171,43,Male,Expat-South-Asian,Early-Career,14895,3,None,0,1,1,0,0,1,1,0,3,3.3,1431,1
+172,27,Male,Expat-Western,Early-Career,12404,3,<5k AED,1,0,1,1,0,0,0,0,7,4.3,1533,0
+173,21,Male,Expat-Western,Early-Career,9331,3,>20k AED,1,1,1,0,1,0,1,1,6,3.1,1946,1
+174,21,Male,Expat-Arab,Mid-Career,30078,1,<5k AED,1,0,1,1,1,1,0,0,3,2.6,2335,0
+175,40,Female,Expat-Western,Early-Career,13462,3,5k-20k AED,1,0,1,1,0,1,0,1,5,4.1,1627,0
+176,33,Female,Emirati,Early-Career,11105,4,5k-20k AED,1,1,1,0,1,1,1,0,4,3.5,2371,1
+177,29,Female,Expat-South-Asian,Mid-Career,34362,4,5k-20k AED,1,0,0,1,1,0,0,1,6,3.7,2967,1
+178,23,Female,Expat-Arab,Mid-Career,17839,2,None,1,0,0,1,1,0,0,1,6,3.0,1652,1
+179,27,Female,Emirati,Early-Career,9384,5,<5k AED,1,0,1,0,1,1,0,1,8,4.1,2381,1
+180,26,Female,Emirati,Early-Career,6685,3,5k-20k AED,1,0,1,1,1,0,0,1,8,3.5,1535,1
+181,28,Female,Expat-South-Asian,Student,3851,5,None,0,0,0,1,0,0,0,1,4,3.5,1077,1
+182,29,Female,Expat-Arab,Student,5435,4,None,0,1,1,1,1,0,1,0,4,3.3,1160,0
+183,25,Male,Expat-Western,Mid-Career,19283,4,None,0,0,0,0,0,0,0,0,7,3.0,1595,1
+184,21,Male,Emirati,Student,5640,2,<5k AED,0,1,1,1,0,0,1,0,6,2.7,572,0
+185,39,Male,Expat-Arab,Early-Career,13710,2,>20k AED,0,1,1,0,0,1,1,1,8,3.7,1255,1
+186,30,Female,Expat-South-Asian,Mid-Career,16619,5,None,1,1,0,0,0,1,1,1,8,3.5,2478,1
+187,32,Female,Expat-Western,Student,3687,2,None,1,1,0,1,0,1,0,1,9,3.5,1243,0
+188,44,Male,Expat-Arab,Early-Career,12868,5,<5k AED,1,1,1,1,0,0,0,0,4,4.4,1964,0
+189,35,Female,Expat-South-Asian,Early-Career,7431,3,5k-20k AED,0,0,1,1,1,0,0,1,4,4.0,1089,0
+190,42,Female,Expat-Western,Freelancer,14067,2,5k-20k AED,0,0,1,1,0,0,0,1,5,4.3,1197,1
+191,44,Male,Expat-South-Asian,Early-Career,10713,2,<5k AED,0,0,1,0,1,1,0,0,4,3.4,1208,0
+192,29,Male,Expat-Arab,Mid-Career,24557,2,5k-20k AED,0,1,1,1,0,0,1,0,2,3.9,1059,0
+193,40,Female,Emirati,Early-Career,10998,5,5k-20k AED,0,1,0,0,1,1,1,0,7,2.1,1775,1
+194,37,Male,Expat-Western,Student,2162,3,>20k AED,0,0,1,0,1,1,0,1,3,3.6,1443,0
+195,37,Female,Emirati,Mid-Career,16974,3,>20k AED,1,0,0,1,0,0,0,1,4,2.7,1770,0
+196,40,Male,Expat-Western,Freelancer,8291,3,<5k AED,1,0,1,1,1,0,0,0,10,3.7,1894,1
+197,32,Female,Expat-South-Asian,Mid-Career,23461,2,<5k AED,0,1,1,1,1,1,1,1,5,4.1,1623,0
+198,27,Female,Other,Mid-Career,32015,3,None,0,0,1,0,1,1,0,0,3,3.8,2894,0
+199,22,Female,Expat-Western,Freelancer,5905,2,<5k AED,0,1,0,1,1,0,0,1,6,3.9,879,1
+200,23,Female,Other,Student,5919,5,>20k AED,0,1,1,1,1,0,1,1,9,3.7,1184,1
+201,37,Male,Expat-South-Asian,Student,5471,3,<5k AED,1,0,0,0,1,1,0,1,7,2.8,2207,1
+202,25,Male,Expat-Western,Mid-Career,17014,3,<5k AED,0,0,0,1,0,0,0,0,5,1.7,1018,0
+203,37,Male,Expat-South-Asian,Early-Career,13896,3,5k-20k AED,0,0,1,0,0,0,0,1,9,3.4,1076,0
+204,44,Female,Expat-South-Asian,Mid-Career,15204,3,5k-20k AED,0,0,0,1,1,0,0,1,6,4.3,1467,1
+205,37,Female,Expat-South-Asian,Freelancer,5581,5,None,0,0,1,1,0,1,0,0,11,3.5,1562,1
+206,37,Female,Expat-Western,Early-Career,11675,3,<5k AED,1,0,0,0,1,0,0,0,10,2.9,1608,1
+207,22,Male,Other,Student,2840,2,<5k AED,1,1,1,1,0,0,1,1,5,3.8,1121,0
+208,22,Male,Expat-Western,Mid-Career,20347,4,5k-20k AED,1,0,1,1,1,0,0,1,8,3.7,2464,0
+209,42,Male,Expat-South-Asian,Early-Career,8643,2,None,0,0,1,0,1,1,0,1,6,3.7,1299,1
+210,43,Male,Expat-South-Asian,Mid-Career,23017,1,<5k AED,0,1,1,1,0,1,1,1,5,3.5,1635,1
+211,25,Female,Expat-Western,Early-Career,8297,5,<5k AED,0,1,1,1,0,1,1,1,9,3.2,1568,1
+212,21,Male,Expat-Arab,Mid-Career,32258,4,<5k AED,1,0,1,0,1,1,0,0,4,3.3,2985,1
+213,21,Male,Emirati,Student,3464,5,5k-20k AED,0,1,1,1,1,1,1,0,5,3.5,2088,1
+214,39,Female,Expat-South-Asian,Mid-Career,30892,3,<5k AED,0,0,1,1,0,0,0,1,7,4.8,1894,0
+215,22,Male,Expat-Arab,Early-Career,6689,3,<5k AED,1,1,1,1,0,0,1,1,9,3.2,1070,0
+216,41,Male,Expat-Arab,Early-Career,10000,2,>20k AED,1,1,1,1,1,1,1,1,6,3.8,1579,0
+217,32,Female,Expat-Arab,Student,4010,2,5k-20k AED,0,1,1,1,1,0,1,1,8,3.7,864,0
+218,26,Male,Emirati,Mid-Career,29289,5,None,0,0,1,1,0,0,0,1,8,3.4,1691,0
+219,43,Female,Emirati,Mid-Career,32055,3,5k-20k AED,0,1,1,1,0,1,0,1,7,4.0,2005,0
+220,24,Female,Other,Student,5831,4,5k-20k AED,1,0,1,1,1,0,0,1,10,5.0,1713,0
+221,43,Female,Expat-South-Asian,Student,5274,4,5k-20k AED,0,0,0,1,0,0,0,1,4,3.2,977,1
+222,31,Male,Expat-South-Asian,Student,3171,2,None,1,0,0,1,0,1,0,0,8,3.4,925,1
+223,44,Female,Expat-South-Asian,Mid-Career,26918,3,>20k AED,0,0,1,0,1,1,1,1,3,2.5,2137,1
+224,37,Male,Expat-Arab,Mid-Career,24135,4,<5k AED,1,0,1,1,0,0,0,0,10,3.2,2401,1
+225,26,Male,Other,Early-Career,12342,2,None,1,1,1,1,1,1,0,1,3,4.8,2038,0
+226,44,Male,Expat-Western,Student,5988,5,None,0,1,1,0,0,1,0,1,12,3.4,1508,1
+227,25,Female,Emirati,Early-Career,7449,3,None,1,0,1,0,1,1,0,1,8,3.9,1834,1
+228,40,Male,Expat-South-Asian,Early-Career,8539,2,>20k AED,0,0,0,1,1,0,0,1,7,3.2,1009,0
+229,22,Male,Expat-Western,Early-Career,9959,4,None,1,0,0,1,0,0,0,0,6,3.3,1645,1
+230,26,Female,Other,Freelancer,18183,5,None,1,0,1,1,1,1,0,0,11,4.6,2697,1
+231,42,Male,Expat-South-Asian,Student,4189,2,>20k AED,0,0,1,1,0,1,0,1,3,3.0,882,1
+232,31,Male,Expat-South-Asian,Mid-Career,20432,4,<5k AED,1,1,1,1,1,1,1,1,7,5.0,2667,1
+233,36,Male,Expat-Arab,Early-Career,10260,2,None,1,0,1,1,1,0,0,0,3,2.7,1268,0
+234,36,Male,Other,Early-Career,8361,4,None,0,0,1,0,0,0,0,1,6,3.1,1072,0
+235,21,Male,Expat-Arab,Mid-Career,16753,4,None,0,0,1,0,0,1,0,1,4,2.9,1759,0
+236,29,Male,Other,Mid-Career,33322,3,None,1,1,1,1,0,0,1,1,3,3.5,2139,0
+237,26,Female,Expat-South-Asian,Freelancer,13562,3,5k-20k AED,1,1,0,1,1,1,1,0,6,2.8,1957,0
+238,36,Male,Expat-South-Asian,Student,3880,4,None,0,1,1,0,0,0,1,1,11,2.8,911,0
+239,23,Male,Expat-South-Asian,Student,2852,3,None,0,1,1,1,0,0,1,1,7,3.0,680,0
+240,40,Female,Expat-Arab,Mid-Career,25123,4,5k-20k AED,0,0,1,0,0,1,0,1,7,3.8,2098,0
+241,24,Male,Expat-Arab,Early-Career,12588,2,5k-20k AED,0,0,0,1,0,1,1,1,1,3.3,983,0
+242,39,Female,Expat-Arab,Early-Career,14616,5,<5k AED,0,1,1,1,1,0,1,1,9,3.6,2078,1
+243,23,Male,Expat-Arab,Student,4208,4,5k-20k AED,1,0,1,1,0,0,0,1,8,3.9,1332,0
+244,39,Male,Expat-Western,Student,5249,5,<5k AED,0,1,1,1,1,1,1,0,6,2.7,1788,1
+245,40,Male,Expat-South-Asian,Freelancer,17916,2,<5k AED,1,0,0,0,0,0,0,0,4,3.0,1442,0
+246,27,Male,Emirati,Student,5779,4,<5k AED,0,0,1,1,0,1,0,0,6,3.3,1328,1
+247,40,Male,Other,Early-Career,12633,4,<5k AED,0,0,1,1,1,1,0,0,6,3.6,2189,1
+248,29,Male,Expat-Western,Student,5064,3,>20k AED,0,1,1,1,1,0,1,1,6,4.2,1026,0
+249,21,Male,Other,Early-Career,6597,3,None,0,1,1,1,1,1,1,1,8,4.9,1304,1
+250,28,Male,Other,Student,5062,1,5k-20k AED,1,0,1,1,0,0,0,1,6,3.9,636,1
+251,27,Male,Expat-Arab,Early-Career,8336,4,None,1,0,1,1,0,1,0,0,7,3.3,1771,1
+252,38,Male,Expat-South-Asian,Student,2592,3,5k-20k AED,1,0,1,1,1,0,0,1,14,3.2,1389,0
+253,28,Male,Expat-Western,Mid-Career,24879,1,5k-20k AED,1,0,1,0,0,1,0,0,7,1.7,1855,0
+254,21,Male,Expat-South-Asian,Student,5644,4,>20k AED,1,0,0,0,0,0,0,0,4,2.9,1519,1
+255,31,Female,Expat-Arab,Early-Career,6572,3,None,0,0,1,1,1,0,0,0,4,2.8,1231,0
+256,38,Male,Expat-Western,Freelancer,12521,1,5k-20k AED,1,0,0,1,1,1,0,1,4,2.1,1646,1
+257,43,Female,Expat-Arab,Mid-Career,21171,5,<5k AED,1,0,1,1,1,1,0,0,12,3.4,3187,1
+258,30,Female,Expat-Arab,Early-Career,13097,5,5k-20k AED,0,0,0,0,1,1,0,1,10,3.4,2212,1
+259,23,Male,Expat-South-Asian,Early-Career,8090,3,5k-20k AED,1,0,0,1,1,0,0,0,7,3.7,1405,0
+260,27,Female,Expat-South-Asian,Early-Career,12566,2,5k-20k AED,0,0,1,1,0,1,0,1,7,4.3,843,0
+261,36,Female,Expat-South-Asian,Mid-Career,26861,4,<5k AED,0,0,1,1,0,0,0,1,7,4.2,1735,1
+262,36,Male,Emirati,Freelancer,17464,3,<5k AED,1,0,1,1,1,0,0,1,7,4.4,2029,1
+263,40,Male,Expat-Western,Mid-Career,16633,3,<5k AED,0,1,0,1,1,1,0,1,5,2.7,1659,1
+264,37,Female,Expat-Arab,Early-Career,7517,3,None,0,0,1,1,1,0,0,1,4,3.8,1075,0
+265,22,Female,Emirati,Mid-Career,27485,3,>20k AED,1,0,1,1,0,1,0,1,8,4.0,2354,1
+266,21,Male,Expat-Western,Early-Career,9648,4,5k-20k AED,1,0,1,1,0,1,0,1,8,3.7,1767,1
+267,36,Male,Other,Student,4889,3,>20k AED,0,1,1,1,1,1,1,0,5,3.5,936,0
+268,32,Male,Expat-Western,Early-Career,7537,4,<5k AED,1,1,0,1,0,1,1,0,7,3.1,1966,0
+269,25,Male,Expat-Western,Freelancer,19357,5,>20k AED,0,1,1,1,0,1,1,0,8,3.5,2193,0
+270,25,Female,Expat-South-Asian,Student,5183,3,>20k AED,0,1,0,0,1,0,1,1,4,3.3,850,0
+271,43,Male,Expat-South-Asian,Mid-Career,28368,4,5k-20k AED,1,0,1,0,1,1,0,1,4,3.1,2896,1
+272,29,Male,Emirati,Student,5137,5,5k-20k AED,1,1,1,1,0,0,0,1,4,2.7,1382,1
+273,29,Female,Expat-South-Asian,Early-Career,12985,3,<5k AED,0,1,1,1,1,0,1,1,4,3.8,1297,0
+274,23,Male,Expat-South-Asian,Student,2097,3,>20k AED,1,0,0,1,1,1,0,1,3,3.6,1731,1
+275,39,Male,Expat-Arab,Early-Career,9750,4,<5k AED,1,0,1,0,0,1,0,1,8,3.4,2002,1
+276,36,Female,Expat-Western,Mid-Career,23535,4,None,0,0,0,1,0,1,0,1,6,4.0,2148,1
+277,36,Female,Expat-South-Asian,Early-Career,14174,4,<5k AED,0,1,1,1,0,0,1,0,6,4.1,1415,1
+278,23,Male,Emirati,Mid-Career,19666,3,>20k AED,0,0,1,0,0,1,0,1,8,3.3,1891,0
+279,40,Male,Expat-Arab,Mid-Career,31009,5,>20k AED,1,1,1,1,1,0,1,0,7,3.5,2818,1
+280,44,Male,Expat-South-Asian,Freelancer,5610,1,>20k AED,1,0,0,0,0,1,0,1,2,3.4,996,1
+281,42,Male,Emirati,Student,3727,1,5k-20k AED,1,0,0,1,1,1,0,0,3,3.6,780,1
+282,44,Male,Expat-Western,Early-Career,7854,4,<5k AED,1,0,1,1,0,1,0,1,6,3.4,1745,1
+283,21,Male,Expat-South-Asian,Student,4608,3,None,1,0,0,0,0,0,0,1,6,3.5,1300,0
+284,44,Male,Expat-South-Asian,Freelancer,10055,2,None,0,1,0,1,1,0,1,0,6,3.2,1159,0
+285,40,Male,Expat-South-Asian,Freelancer,15271,3,None,0,1,1,1,0,0,1,0,4,3.3,1086,0
+286,31,Male,Expat-Western,Early-Career,8324,3,<5k AED,0,0,0,1,1,1,0,1,5,3.9,1651,0
+287,37,Male,Expat-Arab,Mid-Career,27819,1,None,0,1,0,0,0,1,0,1,2,2.9,1547,1
+288,28,Male,Expat-South-Asian,Early-Career,11774,5,<5k AED,1,0,1,0,0,0,0,1,5,3.5,2024,1
+289,24,Male,Expat-South-Asian,Mid-Career,21519,2,>20k AED,1,1,1,0,1,1,1,1,1,3.8,2307,0
+290,26,Male,Expat-Arab,Student,4791,4,<5k AED,0,0,0,1,0,1,0,0,7,3.6,1526,1
+291,28,Female,Expat-Western,Mid-Career,33133,4,>20k AED,0,0,1,1,1,1,1,1,6,4.3,2743,1
+292,40,Female,Expat-Western,Student,4675,5,5k-20k AED,1,0,1,1,1,1,0,1,10,4.1,2258,0
+293,23,Female,Expat-South-Asian,Mid-Career,29939,1,<5k AED,0,0,1,1,0,1,0,1,1,2.1,1632,0
+294,36,Female,Expat-Western,Mid-Career,15781,5,<5k AED,0,0,1,1,0,0,0,0,6,3.5,1530,1
+295,23,Male,Expat-Western,Mid-Career,31282,3,None,0,1,0,1,1,0,1,1,6,3.8,2249,1
+296,38,Male,Expat-Western,Student,5452,4,<5k AED,0,1,1,1,1,0,1,1,7,4.3,1618,0
+297,34,Male,Expat-Western,Early-Career,12823,4,5k-20k AED,1,1,1,0,0,1,1,1,9,2.8,1839,0
+298,38,Female,Expat-South-Asian,Early-Career,8105,4,None,0,0,1,1,1,1,0,1,4,2.6,1624,1
+299,22,Female,Expat-South-Asian,Early-Career,9867,3,None,0,0,1,0,0,1,0,1,5,3.9,1250,0
+300,42,Male,Expat-South-Asian,Student,5097,4,<5k AED,0,0,1,0,1,0,0,1,6,2.9,1440,1
+301,23,Male,Expat-Western,Freelancer,9976,3,>20k AED,1,0,1,1,0,0,0,0,5,4.1,1468,1
+302,36,Male,Expat-Arab,Early-Career,8113,4,5k-20k AED,0,1,1,1,1,0,0,1,8,3.6,1607,1
+303,29,Male,Expat-Western,Early-Career,11879,5,5k-20k AED,0,0,1,0,1,0,0,1,11,3.0,2169,1
+304,24,Female,Expat-Western,Early-Career,9970,2,None,0,0,0,1,0,1,0,0,6,3.3,921,1
+305,21,Female,Emirati,Early-Career,13264,5,5k-20k AED,0,0,0,1,0,1,0,1,8,3.8,1902,1
+306,24,Male,Expat-Western,Mid-Career,32961,2,5k-20k AED,0,1,1,1,0,1,0,1,3,4.0,2032,0
+307,21,Female,Emirati,Early-Career,8274,1,5k-20k AED,1,0,1,0,1,1,0,0,1,3.6,1484,0
+308,34,Female,Expat-Arab,Freelancer,9869,1,>20k AED,0,0,1,0,0,0,0,1,6,3.0,715,0
+309,41,Male,Expat-Western,Early-Career,12744,3,<5k AED,0,0,1,1,0,0,0,1,4,2.8,1056,1
+310,36,Male,Expat-Arab,Freelancer,7426,4,>20k AED,1,0,1,1,1,0,1,0,8,3.4,1861,0
+311,40,Male,Expat-Western,Mid-Career,28489,1,>20k AED,0,0,0,1,1,1,1,0,1,2.6,1628,0
+312,44,Male,Expat-Western,Student,3450,1,None,0,0,1,1,1,1,0,1,6,4.2,780,1
+313,28,Male,Expat-South-Asian,Freelancer,11852,5,<5k AED,0,1,0,0,1,0,1,1,7,3.8,1983,0
+314,27,Male,Emirati,Student,2306,4,>20k AED,1,0,1,0,0,0,0,0,11,3.2,1494,1
+315,23,Male,Expat-Arab,Mid-Career,17551,4,None,0,1,1,1,1,0,1,1,11,3.9,1853,0
+316,37,Male,Expat-South-Asian,Early-Career,12411,5,5k-20k AED,1,1,1,0,0,0,1,1,6,3.2,1805,1
+317,21,Female,Other,Mid-Career,31391,4,>20k AED,1,1,1,1,0,0,1,1,12,4.3,2620,1
+318,36,Male,Expat-South-Asian,Mid-Career,33939,2,5k-20k AED,0,0,0,1,1,0,1,1,8,2.5,2304,1
+319,32,Male,Expat-Arab,Mid-Career,15475,3,None,1,0,1,0,1,0,0,1,4,2.9,1836,0
+320,39,Male,Expat-South-Asian,Mid-Career,25403,4,5k-20k AED,0,1,1,0,0,1,1,1,8,4.5,1775,0
+321,42,Female,Expat-South-Asian,Early-Career,14676,3,None,0,1,1,1,1,1,1,0,6,2.8,1826,0
+322,43,Male,Expat-Western,Student,5668,4,<5k AED,1,0,1,0,0,0,0,1,6,3.7,1609,1
+323,42,Male,Emirati,Early-Career,13239,1,None,1,1,1,0,0,0,1,1,1,3.8,1247,1
+324,34,Female,Expat-Western,Student,4614,3,5k-20k AED,1,0,1,1,1,0,0,0,4,2.4,1797,0
+325,26,Female,Expat-South-Asian,Mid-Career,23078,3,<5k AED,0,0,1,1,0,0,0,1,6,2.7,1836,0
+326,26,Female,Other,Early-Career,12063,4,5k-20k AED,0,0,1,0,0,0,0,1,7,4.2,1221,0
+327,33,Male,Expat-Arab,Freelancer,7285,4,5k-20k AED,1,0,1,1,1,1,0,1,9,3.3,2081,1
+328,39,Male,Expat-South-Asian,Mid-Career,20223,4,5k-20k AED,0,0,1,1,1,1,0,1,4,3.3,2059,0
+329,42,Female,Other,Mid-Career,28521,1,5k-20k AED,0,1,1,1,1,1,0,0,3,3.3,1686,1
+330,28,Female,Emirati,Student,4601,2,None,0,0,1,1,1,0,0,1,4,3.3,691,0
+331,22,Female,Other,Mid-Career,21971,5,5k-20k AED,0,0,1,1,1,1,0,1,7,4.2,2572,1
+332,41,Female,Expat-South-Asian,Freelancer,17755,4,None,1,0,1,1,1,0,0,0,10,2.9,2270,1
+333,21,Male,Emirati,Early-Career,9525,2,>20k AED,0,0,0,0,1,0,0,1,9,2.1,1258,0
+334,35,Female,Expat-Arab,Mid-Career,26531,5,None,1,0,1,0,0,1,0,1,9,4.1,3217,0
+335,21,Male,Expat-Western,Mid-Career,29721,2,<5k AED,0,1,0,1,0,1,1,0,3,2.4,1938,1
+336,25,Male,Emirati,Student,4822,3,5k-20k AED,1,1,0,1,1,1,1,1,6,3.1,1585,1
+337,36,Male,Expat-South-Asian,Early-Career,10943,2,<5k AED,0,1,1,0,1,1,1,0,5,3.8,1594,1
+338,39,Male,Expat-Arab,Early-Career,12530,4,None,0,1,1,1,1,1,1,0,6,3.6,1689,1
+339,24,Male,Expat-South-Asian,Student,4924,4,5k-20k AED,0,0,0,1,1,1,0,1,5,4.3,1896,1
+340,23,Male,Emirati,Early-Career,6258,2,5k-20k AED,0,0,0,1,1,1,0,0,2,3.8,806,1
+341,37,Female,Expat-Western,Student,2282,5,5k-20k AED,0,0,0,1,0,1,0,1,6,3.1,1231,0
+342,37,Male,Other,Student,3649,3,<5k AED,1,0,1,1,0,1,0,0,4,4.0,1520,0
+343,32,Female,Other,Student,3898,3,5k-20k AED,1,1,0,0,0,1,1,1,7,3.2,1641,0
+344,34,Male,Expat-Western,Freelancer,9135,2,<5k AED,0,0,0,0,0,1,0,0,6,2.4,880,0
+345,41,Male,Emirati,Early-Career,12629,3,5k-20k AED,0,0,1,1,0,0,0,1,3,3.9,933,0
+346,26,Male,Expat-Western,Freelancer,16168,1,5k-20k AED,0,1,1,0,0,1,1,1,1,2.6,1126,1
+347,23,Male,Emirati,Early-Career,9200,4,5k-20k AED,0,1,1,1,1,0,0,1,5,4.4,1849,0
+348,29,Male,Emirati,Early-Career,11110,5,<5k AED,1,1,0,1,1,0,1,0,13,3.7,1836,1
+349,25,Male,Expat-Arab,Early-Career,13167,3,None,1,0,1,1,1,0,0,1,2,4.0,1763,0
+350,44,Male,Expat-South-Asian,Early-Career,6612,2,None,0,0,1,0,1,1,0,0,4,2.1,1266,0
+351,37,Female,Expat-Western,Student,4975,1,None,0,0,1,0,0,1,1,1,2,4.1,489,0
+352,34,Male,Expat-South-Asian,Mid-Career,29203,2,<5k AED,0,0,1,1,1,0,0,1,8,4.2,1708,1
+353,41,Female,Expat-South-Asian,Student,2687,3,5k-20k AED,1,0,1,1,1,0,0,1,2,3.9,1360,1
+354,23,Male,Expat-Arab,Mid-Career,17307,4,None,0,0,0,1,1,0,0,1,10,3.5,1850,1
+355,21,Female,Other,Mid-Career,22133,2,>20k AED,1,1,1,1,0,1,1,1,8,3.4,1896,1
+356,40,Female,Expat-South-Asian,Student,5013,4,None,1,0,1,1,0,0,0,1,7,3.5,1693,0
+357,41,Female,Expat-South-Asian,Student,4413,5,5k-20k AED,0,1,1,1,0,0,1,1,12,4.2,1295,0
+358,43,Male,Expat-Arab,Mid-Career,20906,3,5k-20k AED,1,1,0,0,1,0,1,1,6,3.0,2212,1
+359,21,Male,Expat-Western,Early-Career,8591,4,<5k AED,0,0,0,0,1,0,0,1,12,3.1,1649,0
+360,23,Male,Expat-South-Asian,Student,4696,4,None,1,1,1,1,1,0,1,1,11,3.8,1768,1
+361,38,Female,Expat-Arab,Freelancer,18835,4,5k-20k AED,0,0,0,1,1,1,0,0,6,3.2,2014,1
+362,30,Female,Emirati,Student,3930,3,<5k AED,0,0,0,1,1,0,0,1,6,3.2,1004,0
+363,42,Female,Expat-South-Asian,Mid-Career,30149,3,>20k AED,1,1,1,1,1,1,1,1,8,3.8,2530,1
+364,23,Male,Expat-South-Asian,Freelancer,17150,2,5k-20k AED,1,0,1,1,0,0,1,1,8,3.9,1886,0
+365,28,Female,Expat-Arab,Student,5087,3,>20k AED,1,1,1,1,0,0,0,1,5,3.2,1389,0
+366,34,Female,Other,Student,3152,3,<5k AED,0,0,1,1,1,0,0,0,3,3.5,514,0
+367,44,Male,Expat-Arab,Student,2574,4,5k-20k AED,1,1,1,1,0,1,1,1,10,4.9,1819,1
+368,38,Male,Expat-South-Asian,Early-Career,11108,2,5k-20k AED,0,0,0,1,1,1,0,1,7,3.6,1101,1
+369,35,Female,Other,Student,5604,5,5k-20k AED,1,0,0,1,1,1,0,1,8,3.0,2278,1
+370,42,Female,Expat-South-Asian,Mid-Career,32053,4,None,0,0,1,1,1,1,0,1,11,3.3,2191,0
+371,43,Female,Expat-South-Asian,Student,2268,3,5k-20k AED,1,1,1,0,1,0,0,1,9,2.8,1305,1
+372,22,Male,Expat-South-Asian,Early-Career,13329,2,<5k AED,1,1,1,0,1,1,1,0,6,4.3,2151,1
+373,30,Female,Expat-Arab,Freelancer,6283,5,5k-20k AED,1,1,0,1,1,1,1,1,9,4.2,2480,1
+374,22,Male,Other,Mid-Career,15923,4,<5k AED,0,0,1,1,0,0,1,0,7,2.6,1498,1
+375,37,Male,Expat-South-Asian,Mid-Career,16125,4,>20k AED,0,1,1,1,0,1,1,0,6,3.5,1852,0
+376,28,Male,Expat-Western,Early-Career,7529,3,None,1,1,1,1,0,0,1,1,10,4.4,1018,0
+377,21,Female,Expat-Arab,Mid-Career,23438,3,>20k AED,0,1,1,1,1,0,1,0,3,3.6,1945,0
+378,29,Female,Expat-Arab,Early-Career,9711,2,>20k AED,1,0,1,1,0,0,0,1,8,3.4,1358,0
+379,31,Male,Emirati,Early-Career,14004,2,>20k AED,0,1,1,1,0,0,1,1,5,5.0,1474,0
+380,42,Male,Expat-South-Asian,Student,3560,4,<5k AED,0,1,1,1,0,1,1,1,6,2.6,1067,1
+381,36,Female,Expat-South-Asian,Freelancer,11274,4,<5k AED,1,0,0,0,1,0,0,1,7,4.9,1954,1
+382,27,Male,Expat-Western,Early-Career,9864,4,>20k AED,1,1,1,1,1,0,1,1,5,3.9,1910,1
+383,30,Female,Expat-South-Asian,Student,3939,5,<5k AED,0,1,1,1,1,0,1,1,11,4.7,1597,1
+384,43,Male,Other,Early-Career,13833,4,5k-20k AED,0,0,0,1,1,1,0,1,9,2.9,2079,0
+385,23,Male,Expat-Arab,Early-Career,12788,3,5k-20k AED,0,0,1,1,1,1,0,0,5,3.2,1873,1
+386,38,Male,Expat-Western,Mid-Career,15226,3,5k-20k AED,1,0,1,1,1,0,0,1,3,3.3,2106,0
+387,44,Male,Expat-Western,Mid-Career,30036,5,None,0,0,1,0,1,0,0,1,6,3.5,2205,1
+388,33,Female,Expat-Western,Mid-Career,26739,2,5k-20k AED,1,1,1,1,1,0,1,1,2,4.1,1646,0
+389,27,Male,Expat-Western,Student,5548,5,>20k AED,1,0,0,1,0,1,0,0,10,3.7,1769,0
+390,24,Male,Expat-Western,Early-Career,6264,4,None,0,1,1,1,1,0,1,1,7,2.9,1343,0
+391,33,Female,Expat-South-Asian,Early-Career,6645,2,>20k AED,1,1,1,0,0,0,1,0,6,3.2,943,0
+392,40,Male,Emirati,Student,4258,4,None,0,0,1,0,0,0,0,1,4,3.9,878,1
+393,21,Male,Emirati,Early-Career,13544,5,<5k AED,0,1,1,0,1,1,1,1,9,4.2,2024,1
+394,28,Female,Other,Mid-Career,34374,4,None,1,1,1,0,0,1,1,0,5,2.8,2940,1
+395,34,Female,Expat-South-Asian,Student,3387,5,None,0,1,1,0,0,0,1,1,6,3.1,928,1
+396,36,Male,Expat-Western,Early-Career,8504,5,>20k AED,0,1,1,1,1,0,1,0,6,3.5,1624,0
+397,34,Female,Expat-South-Asian,Student,4772,3,<5k AED,0,1,1,0,0,0,1,1,7,3.5,776,0
+398,32,Female,Emirati,Student,5799,3,<5k AED,0,1,0,0,1,1,1,0,6,3.8,1492,0
+399,39,Male,Emirati,Student,3249,5,None,0,0,1,1,1,1,0,1,11,3.2,1912,1
+400,43,Male,Expat-South-Asian,Freelancer,18269,4,5k-20k AED,1,1,1,0,1,1,1,1,6,3.1,2817,1
+401,35,Female,Expat-South-Asian,Mid-Career,24346,2,5k-20k AED,1,1,0,0,1,1,0,0,5,2.2,2174,0
+402,22,Female,Expat-Arab,Freelancer,5587,1,<5k AED,1,1,1,1,1,0,1,1,4,4.2,723,0
+403,22,Male,Expat-South-Asian,Early-Career,10079,4,<5k AED,0,0,0,0,1,1,0,0,9,3.7,1704,1
+404,43,Female,Emirati,Student,5348,5,>20k AED,0,1,0,1,1,1,1,1,9,2.7,1446,0
+405,42,Female,Expat-South-Asian,Early-Career,12299,5,<5k AED,0,0,1,0,1,0,1,0,4,3.4,2338,0
+406,39,Male,Expat-Arab,Early-Career,9831,4,<5k AED,0,1,0,1,1,1,1,1,4,4.2,1568,1
+407,42,Male,Expat-Western,Mid-Career,33099,2,<5k AED,0,0,0,1,1,0,0,1,7,4.1,2136,0
+408,42,Male,Expat-Arab,Student,4593,3,5k-20k AED,0,0,0,1,0,0,0,1,10,3.9,970,0
+409,37,Female,Expat-South-Asian,Early-Career,12450,5,<5k AED,0,0,1,1,0,1,0,1,13,3.0,1816,1
+410,40,Male,Emirati,Student,2942,2,<5k AED,0,0,0,1,1,1,1,1,7,4.1,1483,1
+411,30,Female,Emirati,Early-Career,11433,3,<5k AED,1,1,1,1,0,1,1,0,8,3.3,1666,1
+412,26,Female,Expat-South-Asian,Mid-Career,16098,2,>20k AED,1,1,0,0,0,0,1,0,2,3.4,1276,0
+413,35,Female,Expat-South-Asian,Early-Career,13096,4,<5k AED,1,1,1,1,1,1,1,1,7,4.2,2096,0
+414,42,Male,Expat-South-Asian,Early-Career,8326,5,5k-20k AED,1,0,1,1,0,1,0,1,8,3.2,2133,0
+415,31,Female,Expat-Arab,Early-Career,12416,3,<5k AED,1,0,1,1,0,0,0,1,8,3.9,1458,0
+416,25,Male,Expat-South-Asian,Early-Career,12980,3,None,0,1,1,0,1,1,1,0,6,3.8,1491,1
+417,21,Female,Expat-Western,Mid-Career,33058,4,5k-20k AED,0,1,1,1,1,1,1,1,8,3.6,2760,1
+418,28,Male,Expat-Western,Freelancer,16101,5,<5k AED,1,0,1,1,0,0,0,0,7,3.5,2185,1
+419,41,Male,Emirati,Freelancer,12950,2,>20k AED,1,0,1,0,1,1,0,1,11,2.8,1922,0
+420,32,Female,Expat-South-Asian,Mid-Career,24122,3,>20k AED,1,0,0,1,1,0,0,1,6,3.9,2444,1
+421,32,Male,Emirati,Early-Career,14915,3,>20k AED,1,1,1,0,0,0,1,0,7,3.1,1614,0
+422,25,Male,Expat-Arab,Mid-Career,16089,5,None,0,1,1,1,0,0,0,1,6,4.2,1524,0
+423,27,Female,Other,Early-Career,10578,3,5k-20k AED,1,0,1,0,1,1,0,1,2,3.9,2135,0
+424,24,Female,Emirati,Early-Career,6155,2,<5k AED,1,0,1,1,1,0,0,1,5,3.7,1168,0
+425,26,Female,Expat-South-Asian,Mid-Career,16958,4,>20k AED,0,1,1,1,1,1,0,0,7,3.1,1802,0
+426,33,Female,Expat-South-Asian,Student,4501,4,5k-20k AED,1,0,1,1,1,0,0,1,7,3.3,1911,1
+427,40,Male,Expat-Western,Freelancer,11344,1,>20k AED,0,0,0,1,1,1,0,1,5,3.3,1134,1
+428,35,Male,Expat-South-Asian,Early-Career,11779,5,<5k AED,1,1,0,1,0,1,1,1,4,3.9,2454,0
+429,23,Male,Emirati,Mid-Career,18830,2,5k-20k AED,1,0,0,0,1,1,0,1,11,2.2,2274,0
+430,43,Male,Expat-Arab,Mid-Career,24046,4,None,0,0,1,1,0,0,0,0,3,2.8,1677,0
+431,28,Female,Expat-South-Asian,Freelancer,13831,3,5k-20k AED,1,1,1,0,1,1,0,0,6,3.8,2200,1
+432,40,Female,Emirati,Mid-Career,24794,4,<5k AED,0,1,1,1,1,1,0,1,8,4.7,2847,1
+433,36,Male,Expat-South-Asian,Mid-Career,15441,3,<5k AED,1,1,1,0,0,1,1,0,6,2.5,2018,1
+434,33,Male,Emirati,Student,3944,5,5k-20k AED,0,1,1,1,1,0,1,1,8,3.3,1574,1
+435,38,Female,Emirati,Early-Career,11925,4,5k-20k AED,1,1,1,1,0,1,1,1,5,4.5,1808,1
+436,30,Male,Expat-South-Asian,Student,4190,4,None,0,1,1,1,0,0,1,1,7,3.6,1336,1
+437,39,Female,Emirati,Mid-Career,19628,4,5k-20k AED,1,0,1,1,1,1,0,0,4,3.1,2798,1
+438,37,Male,Expat-South-Asian,Early-Career,12370,4,<5k AED,0,1,1,0,0,1,1,0,9,3.7,1427,1
+439,44,Female,Expat-South-Asian,Mid-Career,24528,1,<5k AED,1,1,1,1,1,0,1,1,5,4.2,2257,0
+440,39,Male,Expat-Western,Student,5700,3,None,1,0,1,1,0,0,0,0,6,3.8,1260,0
+441,43,Female,Expat-Arab,Student,2948,5,None,1,0,1,0,1,0,0,1,7,3.1,1649,1
+442,25,Female,Expat-Arab,Mid-Career,26565,2,<5k AED,1,0,1,1,1,1,0,1,4,4.1,2292,1
+443,41,Female,Emirati,Student,5725,4,5k-20k AED,1,0,1,1,1,1,0,1,8,4.6,2154,0
+444,43,Female,Expat-South-Asian,Student,4019,5,None,0,0,1,1,1,0,1,1,14,4.3,1294,1
+445,29,Female,Expat-Western,Student,2459,1,<5k AED,0,1,0,1,1,0,1,0,5,3.9,377,1
+446,32,Female,Emirati,Freelancer,12568,4,>20k AED,0,1,1,1,0,0,1,0,6,4.2,1214,0
+447,41,Male,Other,Mid-Career,15392,3,None,1,0,0,1,0,0,0,1,1,3.7,1557,1
+448,21,Female,Emirati,Early-Career,7787,4,<5k AED,1,0,1,0,0,0,0,1,7,3.1,1376,0
+449,21,Female,Expat-South-Asian,Early-Career,13374,2,5k-20k AED,0,0,1,1,0,1,0,1,3,4.2,1094,0
+450,35,Male,Expat-Western,Early-Career,7138,1,>20k AED,1,1,1,1,1,0,1,1,1,3.2,1368,0
+451,22,Female,Expat-Western,Mid-Career,22418,4,5k-20k AED,1,0,0,0,0,1,0,1,6,3.0,2398,0
+452,42,Female,Expat-Western,Mid-Career,17454,4,5k-20k AED,1,0,1,1,1,1,0,0,7,4.0,2345,0
+453,36,Female,Expat-Western,Student,3466,4,>20k AED,0,0,1,1,1,0,0,0,10,1.7,1153,1
+454,28,Male,Expat-Arab,Student,5674,3,<5k AED,0,0,0,1,0,1,0,1,3,3.6,1050,0
+455,33,Male,Expat-Western,Student,3377,2,>20k AED,0,0,1,1,1,1,1,0,4,3.8,1070,1
+456,41,Female,Emirati,Mid-Career,30223,4,None,1,1,1,0,0,0,1,1,11,2.7,2394,1
+457,21,Female,Expat-Western,Mid-Career,21701,2,>20k AED,0,1,1,1,1,0,0,1,2,4.1,1744,0
+458,36,Male,Expat-South-Asian,Early-Career,8597,5,<5k AED,0,1,0,0,0,0,1,1,8,3.2,1383,1
+459,27,Female,Expat-Western,Student,2141,5,5k-20k AED,1,0,1,1,1,0,0,1,9,3.9,1830,1
+460,25,Female,Expat-South-Asian,Student,4659,4,<5k AED,1,1,1,1,1,0,1,0,8,4.3,1971,1
+461,42,Male,Expat-South-Asian,Freelancer,9596,5,5k-20k AED,1,1,1,1,0,0,1,0,9,3.9,2159,1
+462,43,Female,Expat-South-Asian,Early-Career,11661,1,None,0,0,1,0,0,0,0,1,4,3.8,420,0
+463,23,Male,Expat-Western,Mid-Career,21142,4,>20k AED,0,1,0,1,1,0,1,1,7,3.0,1629,1
+464,32,Male,Emirati,Mid-Career,27109,3,>20k AED,1,0,0,1,0,0,1,1,6,3.4,2014,1
+465,36,Male,Emirati,Early-Career,11626,5,None,0,1,1,0,1,0,1,1,8,4.3,1921,1
+466,39,Female,Expat-Arab,Student,2595,3,>20k AED,0,0,1,1,1,0,0,0,3,3.5,1078,0
+467,25,Male,Expat-Arab,Student,3904,4,5k-20k AED,0,1,0,1,0,1,1,1,4,4.3,1416,1
+468,42,Male,Expat-Western,Mid-Career,23472,5,5k-20k AED,0,0,0,1,1,0,0,1,10,4.0,2160,1
+469,34,Male,Expat-Arab,Mid-Career,31807,1,<5k AED,0,1,1,0,1,1,1,0,3,4.3,1630,0
+470,25,Male,Other,Mid-Career,19249,3,<5k AED,0,1,0,0,1,0,1,1,6,2.7,1396,1
+471,35,Female,Expat-Arab,Early-Career,7750,4,<5k AED,0,1,0,1,1,1,1,1,4,3.5,1772,1
+472,37,Male,Expat-Arab,Student,2661,3,<5k AED,0,0,1,1,0,0,0,1,5,3.7,918,0
+473,34,Male,Expat-Western,Freelancer,6967,3,>20k AED,1,0,0,0,0,1,0,0,7,3.2,1147,0
+474,40,Female,Expat-South-Asian,Mid-Career,19088,2,None,0,1,1,0,1,1,1,1,3,3.2,1995,0
+475,25,Male,Expat-South-Asian,Early-Career,10178,2,>20k AED,1,0,1,1,1,0,0,0,6,2.6,1600,1
+476,32,Male,Expat-South-Asian,Freelancer,12789,5,<5k AED,0,0,1,1,0,1,0,0,6,3.6,1747,0
+477,36,Male,Expat-Western,Mid-Career,30282,4,5k-20k AED,0,1,1,0,1,1,1,1,11,3.4,2435,0
+478,36,Male,Expat-Arab,Early-Career,8946,1,5k-20k AED,1,0,1,1,1,0,1,1,1,3.6,1576,1
+479,41,Male,Other,Mid-Career,24641,3,>20k AED,0,0,1,1,0,1,0,1,3,3.3,2015,1
+480,27,Male,Other,Mid-Career,20075,3,<5k AED,0,0,1,0,1,1,0,0,4,3.4,2051,0
+481,24,Male,Expat-South-Asian,Mid-Career,25412,2,<5k AED,0,0,1,1,0,0,0,0,9,2.8,1270,0
+482,21,Female,Expat-Arab,Student,5398,3,<5k AED,1,1,1,1,1,0,1,1,5,3.8,1838,0
+483,25,Male,Expat-South-Asian,Early-Career,13230,3,None,0,1,1,1,0,1,1,0,8,2.9,1385,0
+484,43,Female,Emirati,Freelancer,16002,3,<5k AED,0,1,1,1,1,1,1,0,7,3.2,1849,0
+485,30,Female,Emirati,Student,3659,4,<5k AED,1,1,0,1,0,1,1,0,11,3.3,1610,0
+486,42,Male,Expat-Arab,Early-Career,7531,2,<5k AED,0,0,1,1,1,1,0,1,4,4.3,1098,1
+487,25,Female,Expat-South-Asian,Early-Career,8990,4,5k-20k AED,0,0,0,0,1,0,0,0,9,2.8,1523,1
+488,24,Male,Expat-Western,Early-Career,13155,4,<5k AED,0,0,1,1,0,1,0,1,5,4.3,1715,0
+489,22,Female,Expat-Western,Mid-Career,19493,4,<5k AED,1,0,1,1,1,0,0,0,7,3.0,2191,0
+490,40,Male,Expat-Western,Freelancer,14335,4,<5k AED,0,1,1,0,1,0,0,0,6,2.4,1720,0
+491,30,Male,Expat-South-Asian,Student,2933,3,5k-20k AED,0,0,1,0,0,1,0,1,3,2.6,979,0
+492,39,Male,Expat-Arab,Student,3460,5,>20k AED,0,0,1,0,1,1,0,0,4,2.7,1871,0
+493,21,Female,Expat-South-Asian,Student,3852,4,5k-20k AED,1,0,1,1,0,0,0,1,4,2.9,1294,1
+494,44,Male,Other,Freelancer,7723,3,5k-20k AED,0,1,0,0,1,1,1,0,6,4.2,1504,0
+495,25,Female,Emirati,Mid-Career,25704,4,<5k AED,1,1,1,0,1,0,1,1,7,2.7,2615,1
+496,33,Male,Expat-Western,Early-Career,6285,4,5k-20k AED,0,0,1,1,1,0,0,0,7,4.2,1287,1
+497,24,Female,Expat-South-Asian,Mid-Career,31648,3,<5k AED,1,1,1,1,0,1,1,0,9,3.4,2350,1
+498,36,Male,Expat-South-Asian,Mid-Career,21816,2,<5k AED,1,0,1,0,0,0,1,1,6,3.5,1540,0
+499,44,Female,Expat-Western,Mid-Career,26639,2,5k-20k AED,0,0,0,1,1,0,0,1,3,3.1,1847,0
+500,36,Male,Expat-South-Asian,Freelancer,19424,5,>20k AED,0,1,1,1,1,0,1,0,6,3.8,2029,1
